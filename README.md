@@ -10,4 +10,4 @@ Foo bar
 
 This is a paragraph. 
 
-[Screenshot of foo](fooshot.png)
+![Screenshot of foo](fooshot.png)
