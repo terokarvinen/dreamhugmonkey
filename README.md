@@ -6,6 +6,16 @@ Example project for showing git
 
 Let's write something here
 
+Then I tried
+
+    $ ls
+    foo.txt bar.txt
+
+But where was I?
+
+    $ pwd
+    /home/tero/
+
 Foo bar
 
 This is a paragraph. 
