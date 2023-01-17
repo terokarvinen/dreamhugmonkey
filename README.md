@@ -23,3 +23,5 @@ This is a paragraph.
 ![Screenshot of foo](fooshot.png)
 
 Foo bar
+
+[](Tux logo by Larry Ewing.png)
