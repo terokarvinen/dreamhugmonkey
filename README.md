@@ -24,4 +24,4 @@ This is a paragraph.
 
 Foo bar
 
-![](Tux logo by Larry Ewing.png)
+![Logo](Tux logo by Larry Ewing.png)
