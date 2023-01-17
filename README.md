@@ -21,3 +21,5 @@ Foo bar
 This is a paragraph. 
 
 ![Screenshot of foo](fooshot.png)
+
+Foo bar
