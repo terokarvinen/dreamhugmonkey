@@ -1,5 +1,7 @@
 # dreamhugmonkey
 
+Heippa maailma
+
 Example project for showing git
 
 ## Even more features
