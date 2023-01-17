@@ -43,3 +43,19 @@ Foo bar
 ![Logo](Tux logo by Larry Ewing.png)
 
 ![](Tux-logo-by-Larry-Ewing.png)
+
+## Adding images to MarkDown
+
+1) Upload the file
+
+![Add file: Upload](upload-files.png)
+
+2) Write to your Markdown source
+
+        ![Add file: Upload](upload-files.png)
+   
+ Which means
+ 
+    ![Description](filename)
+    
+When you save images, replace spaces " " with dashes "-". 
