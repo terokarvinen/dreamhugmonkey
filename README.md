@@ -1,6 +1,8 @@
-# dreamhugmonkey
+# Dream Hug Monkey
 
 Heippa maailma
+
+This is a paragpraph. 
 
 Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. 
 
