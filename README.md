@@ -1,6 +1,6 @@
 # Dream Hug Monkey
 
-Heippa maailma
+Heippa maailma [Tero Karvinen](https://TeroKarvinen.com)
 
 This is a paragpraph. 
 
