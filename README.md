@@ -1,6 +1,6 @@
 # Dream Hug Monkey
 
-Heippa super aurinkoinen maailma [Tero Karvinen](https://TeroKarvinen.com)
+Heippa super-hyper aurinkoinen maailma [Tero Karvinen](https://TeroKarvinen.com)
 
 ![My sample screenshot](sample-screenshot.png)
 
